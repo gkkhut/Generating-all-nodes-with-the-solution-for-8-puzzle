@@ -2,7 +2,8 @@
 Implementation of tree generation algorithm to generate nodes for 8-Puzzle and search algorithm to find the solution for any given state.
 
 MATLAB program is included in the code folder. 
-The program generates the total of 100000 Nodes of the input matrice i.e. [2 8 3;1 6 4;7 0 5].
+The program generates the total of 100000 Nodes of the input matrice i.e. 
+[2 8 3;1 6 4;7 0 5].
 
 Steps to run the program
 
